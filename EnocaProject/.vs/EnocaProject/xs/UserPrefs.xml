@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{CA83E0F4-5EFA-47CF-95EE-78D67CA3C90D}|Default">
+  <MonoDevelop.Ide.ItemProperties.EnocaProject.Entities FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.EnocaProject.DataAccess FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.EnocaProject.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EnocaProject.Business FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnocaProject.DataAccess/ServiceRegistration.cs">
+    <Files>
+      <File FileName="EnocaProject.DataAccess/Contexts/BlecyAPIDbContext.cs" Line="5" Column="11" />
+      <File FileName="EnocaProject.DataAccess/Contexts/DesignTimeDbContextFactory.cs" Line="12" Column="42" />
+      <File FileName="EnocaProject.DataAccess/Configuration.cs" Line="15" Column="5" />
+      <File FileName="EnocaProject.DataAccess/ServiceRegistration.cs" Line="14" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnocaProject" expanded="True">
+            <Node name="EnocaProject.DataAccess" expanded="True">
+              <Node name="Contexts" expanded="True" />
+              <Node name="ServiceRegistration.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EnocaProject.Core FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,17 @@
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/bin/Debug/net6.0/EnocaProject.Business.deps.json
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/bin/Debug/net6.0/EnocaProject.Business.dll
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/bin/Debug/net6.0/EnocaProject.Business.pdb
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/bin/Debug/net6.0/EnocaProject.Core.dll
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/bin/Debug/net6.0/EnocaProject.Entities.dll
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/bin/Debug/net6.0/EnocaProject.Entities.pdb
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/bin/Debug/net6.0/EnocaProject.Core.pdb
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/obj/Debug/net6.0/EnocaProject.Business.csproj.AssemblyReference.cache
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/obj/Debug/net6.0/EnocaProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/obj/Debug/net6.0/EnocaProject.Business.AssemblyInfoInputs.cache
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/obj/Debug/net6.0/EnocaProject.Business.AssemblyInfo.cs
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/obj/Debug/net6.0/EnocaProject.Business.csproj.CoreCompileInputs.cache
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/obj/Debug/net6.0/EnocaProject.Business.csproj.CopyComplete
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/obj/Debug/net6.0/EnocaProject.Business.dll
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/obj/Debug/net6.0/refint/EnocaProject.Business.dll
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/obj/Debug/net6.0/EnocaProject.Business.pdb
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Business/obj/Debug/net6.0/ref/EnocaProject.Business.dll

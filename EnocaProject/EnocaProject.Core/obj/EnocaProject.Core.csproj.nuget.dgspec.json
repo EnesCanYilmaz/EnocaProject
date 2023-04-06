@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/EnocaProject.Core.csproj": {}
+  },
+  "projects": {
+    "/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/EnocaProject.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/EnocaProject.Core.csproj",
+        "projectName": "EnocaProject.Core",
+        "projectPath": "/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/EnocaProject.Core.csproj",
+        "packagesPath": "/Users/enescanyilmaz/.nuget/packages/",
+        "outputPath": "/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/enescanyilmaz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Entities/EnocaProject.Entities.csproj": {
+                "projectPath": "/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Entities/EnocaProject.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Entities/EnocaProject.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Entities/EnocaProject.Entities.csproj",
+        "projectName": "EnocaProject.Entities",
+        "projectPath": "/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Entities/EnocaProject.Entities.csproj",
+        "packagesPath": "/Users/enescanyilmaz/.nuget/packages/",
+        "outputPath": "/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/enescanyilmaz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

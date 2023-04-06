@@ -1,0 +1,15 @@
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/bin/Debug/net6.0/EnocaProject.Core.deps.json
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/bin/Debug/net6.0/EnocaProject.Core.dll
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/bin/Debug/net6.0/EnocaProject.Core.pdb
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/bin/Debug/net6.0/EnocaProject.Entities.dll
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/bin/Debug/net6.0/EnocaProject.Entities.pdb
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/obj/Debug/net6.0/EnocaProject.Core.csproj.AssemblyReference.cache
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/obj/Debug/net6.0/EnocaProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/obj/Debug/net6.0/EnocaProject.Core.AssemblyInfoInputs.cache
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/obj/Debug/net6.0/EnocaProject.Core.AssemblyInfo.cs
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/obj/Debug/net6.0/EnocaProject.Core.csproj.CoreCompileInputs.cache
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/obj/Debug/net6.0/EnocaProject.Core.csproj.CopyComplete
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/obj/Debug/net6.0/EnocaProject.Core.dll
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/obj/Debug/net6.0/refint/EnocaProject.Core.dll
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/obj/Debug/net6.0/EnocaProject.Core.pdb
+/Users/enescanyilmaz/Projects/EnocaProject/EnocaProject.Core/obj/Debug/net6.0/ref/EnocaProject.Core.dll
