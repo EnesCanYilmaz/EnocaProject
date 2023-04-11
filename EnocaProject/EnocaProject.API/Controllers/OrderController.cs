@@ -51,7 +51,7 @@ namespace EnocaProject.API.Controllers
                 {
                     var selectedCarrierConfig = selectedCarrier.CarrierConfigurations.First(cfg => order.OrderDesi >= cfg.CarrierMinDesi && order.OrderDesi <= cfg.CarrierMaxDesi);
                     var carrier = context.Carriers.Find(selectedCarrierConfig.CarrierId);
-                    var price = selectedCarrierConfig.CarrierCost + ((order.OrderDesi - selectedCarrierConfig.CarrierMaxDesi) * carrier.CarrierPlusDesiCost);
+                    var price = selectedCarrierConfig.CarrierCost;
                     response = $"En uygun taşıyıcı {carrier.CarrierName} ve fiyatı {price} ₺.";
                     order.OrderCarrierCost = price;
                     order.CarrierId = selectedCarrier.Id;
